@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayantt19" alt="jayantt19" /></a> </p>
 
-- 🔭 I’m currently working on [Thubnail.maker](https://github.com/jayantt19/thumbnail-makker)
+- 🔭 I’m currently working on [Thumbnail.maker](https://github.com/jayantt19/thumbnail-makker)
 
 - 🌱 I’m currently learning **React, Machine Learning,Android Development,etc**
 
