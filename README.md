@@ -342,9 +342,6 @@ Architecture
 # 🐍 My Contribution Timeline
 
 <div align="center">
-
-### `WATCH THE SNAKE EAT MY CONTRIBUTIONS` 🐍
-
 <br>
 
 <img src="https://raw.githubusercontent.com/jayantt19/jayantt19/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake"/>
