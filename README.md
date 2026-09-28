@@ -1,22 +1,36 @@
-<!-- ===================================================== -->
-<!--                     HERO SECTION                      -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                       ANIMATED HERO                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,65:1d4ed8,100:06b6d4&height=250&section=header&text=JAYANT%20KUMAR%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=MERN%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER%20%7C%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,55:1e3a8a,80:2563eb,100:06b6d4&height=280&section=header&text=JAYANT%20KUMAR%20SHARMA&fontSize=45&fontColor=ffffff&fontAlignY=34&desc=FULL%20STACK%20%7C%20MERN%20%7C%20PROBLEM%20SOLVER&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=MERN+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Web+Applications+%F0%9F%9A%80;Solving+DSA+Problems+%F0%9F%A7%A0;Exploring+AI-Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Working+Products+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=MERN+Stack+Developer+%F0%9F%92%BB;Full+Stack+Web+Application+Builder+%F0%9F%9A%80;Java+%7C+JavaScript+%7C+TypeScript;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" alt="Typing Animation"/>
 
 <br><br>
 
+<a href="https://github.com/jayantt19">
+
 <img src="https://komarev.com/ghpvc/?username=jayantt19&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/jayantt19?label=FOLLOWERS&style=for-the-badge&color=2563eb" />
+</a>
 
-<img src="https://img.shields.io/github/stars/jayantt19?label=STARS&style=for-the-badge&color=f59e0b" />
+<img src="https://img.shields.io/github/followers/jayantt19?label=FOLLOWERS&style=for-the-badge&color=2563eb"/>
+
+<img src="https://img.shields.io/github/stars/jayantt19?label=TOTAL%20STARS&style=for-the-badge&color=f59e0b"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ `Code. Build. Solve. Repeat.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=700&color=94A3B8&center=true&vCenter=true&width=800&height=45&lines=Passionate+about+building+real-world+software;Learning+something+new+every+day;Turning+complex+problems+into+simple+solutions" />
 
 </div>
 
@@ -32,63 +46,55 @@ const jayant = {
     location: "India 🇮🇳",
     role: "MERN Stack Developer",
 
-    stack: {
-        frontend: ["React", "JavaScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB", "MySQL"],
-        languages: ["Java", "JavaScript", "Python"]
-    },
+    languages: [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    ],
 
-    currentlyWorkingOn: [
-        "Full Stack Projects",
-        "DSA",
-        "Backend Development",
-        "AI-powered Applications"
+    frontend: [
+        "React",
+        "Tailwind CSS",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL"
     ],
 
     interests: [
-        "Problem Solving",
-        "System Design",
-        "AI + Web Development",
-        "Scalable Applications"
+        "Full Stack Development",
+        "DSA",
+        "AI Applications",
+        "System Design"
     ],
 
-    mindset: "Build → Break → Learn → Improve 🚀"
+    mindset: "Build → Break → Debug → Learn → Improve 🚀"
 };
 ```
 
 <br clear="right"/>
 
-> 🚀 I build full-stack applications, solve problems, and continuously improve my understanding of software engineering.
-
 ---
 
-# ⚡ What I'm Doing
+# 🔥 What I'm Currently Doing
 
 <div align="center">
 
-| 🚀 Building | 🧠 Learning | 🎯 Improving |
-|:---:|:---:|:---:|
-| Full Stack Apps | DSA & Algorithms | Problem Solving |
-| AI-powered Apps | Backend Architecture | Coding Patterns |
-| Real-world Projects | System Design | Interview Skills |
+<table>
+<tr>
 
-</div>
+<td align="center" width="25%">
 
----
+### 💻
+**BUILDING**
 
-# 🛠️ My Tech Universe
-
-### 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css" />
-
-</p>
-
-### ⚛️ Frontend
-
-<p align="center">
-
-<img src="https://skillicons
+Real
